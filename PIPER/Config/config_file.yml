@@ -1,0 +1,17 @@
+cost_euro_x_Km: 0.9
+
+solution_to_analize: 'df_LUN_AMA_sol_based_5_v1.xlsx'
+
+facility_capacity_con: 'AMA_sol_based'  #'AMA_sol_based'  or  # unlimited
+
+increased_capacity: 0
+
+vehicles_avail_rate: 0.7
+
+operators_avail_rate: 0.75
+
+operators_distribution: "depot"  #'all'  'depot'
+
+vehicle_distribution: "depot"  #'all'  'depot'
+
+max_shifts: 3
